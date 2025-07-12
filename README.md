@@ -67,7 +67,7 @@ I believe technology is a catalyst for social and economic change. I'm driven to
 
 ---
 
-> "The people who are crazy enough to think they can change the world are the ones who do." — Steve Jobs
+> "If you do something and it turns out pretty good, then you should go do something else wonderful, not dwell on it for too long. Just figure out what’s next." — Steve Jobs
 
 ---
 

@@ -1,4 +1,3 @@
-
 <!-- Banner/Avatar -->
 <p align="center">
   <img src="https://em-content.zobj.net/source/microsoft-teams/363/man-technologist_1f468-200d-1f4bb.png" width="120" style="border-radius:50%;box-shadow:0 0 24px #23ffe3;" alt="Blonde Programmer Emoji"/>
@@ -45,7 +44,7 @@ I believe technology is a catalyst for social and economic change. I'm driven to
 
 ## 🛠️ Tech Stack
 
-<p align="center">
+<div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -57,10 +56,7 @@ I believe technology is a catalyst for social and economic change. I'm driven to
   <img src="https://img.shields.io/badge/Cloud-Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
   <img src="https://img.shields.io/badge/Big%20Data-Hadoop-FCC624?style=for-the-badge&logo=apachehadoop&logoColor=black"/>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-</p>
-
----
-
+</div>
 
 ## 📈 GitHub Stats
 
@@ -71,11 +67,11 @@ I believe technology is a catalyst for social and economic change. I'm driven to
 
 ---
 
-> "Technology is the bridge between the present and the future. Let's build it together!"
+> "The people who are crazy enough to think they can change the world are the ones who do." — Steve Jobs
 
 ---
 
 <p align="center">
   <b>Ready to innovate and transform?</b><br>
-  <a href="https://wa.me/595991234567" style="font-size:1.2rem;font-weight:700;color:#23ffe3;">Let's talk!</a>
+  <a href="mailto:1707505@uab.cat" style="font-size:1.2rem;font-weight:700;color:#23ffe3;">Contact me via Gmail</a>
 </p>

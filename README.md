@@ -8,14 +8,14 @@
 <p align="center">Innovador en automatización, desarrollo web y móvil, y generación de ideas que impulsan el futuro.</p>
 
 <p align="center">
-  <i>"La tecnología es el motor que conecta sueños con realidades. Mi propósito: inspirar, transformar y liderar el cambio digital en Sudamérica y el mundo."</i>
+  <i>La tecnología es el motor que conecta sueños con realidades. Mi propósito: inspirar, transformar y liderar el cambio digital en Sudamérica y el mundo.</i>
 </p>
 
 ---
 
 ### �‍💻 About Me
 
-¡Hola! Soy Cleonaia, estudiante de Ingeniería de Datos con una pasión desbordante por la innovación, el aprendizaje continuo y el desarrollo tecnológico. Mi objetivo es aportar soluciones creativas y eficientes que impulsen la transformación digital, especialmente en Sudamérica, una región llena de potencial y oportunidades para abrir nuevos horizontes de conocimiento.
+¡Hola! Soy Leo, estudiante de Ingeniería de Datos con una pasión desbordante por la innovación, el aprendizaje continuo y el desarrollo tecnológico. Mi objetivo es aportar soluciones creativas y eficientes que impulsen la transformación digital, especialmente en Sudamérica, una región llena de potencial y oportunidades para abrir nuevos horizontes de conocimiento.
 
 Creo en la tecnología como motor de cambio social y económico. Me motiva crear herramientas y plataformas que faciliten la vida de las personas y las empresas, utilizando datos, inteligencia artificial y automatización para resolver desafíos reales.
 
@@ -39,7 +39,6 @@ Creo en la tecnología como motor de cambio social y económico. Me motiva crear
 [![Instagram](https://img.shields.io/badge/Instagram-rohayhu__leo-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rohayhu_leo)
 [![GitHub](https://img.shields.io/badge/GitHub-cleonaia-%23181724?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cleonaia)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Cleonaia-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Contactar-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/595991234567)
 
 ---
 
@@ -74,5 +73,4 @@ Creo en la tecnología como motor de cambio social y económico. Me motiva crear
 
 <p align="center">
   <b>¿Listo para innovar y transformar?</b><br>
-  <a href="https://wa.me/595991234567" style="font-size:1.2rem;font-weight:700;color:#23ffe3;">¡Hablemos!</a>
 </p>

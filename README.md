@@ -16,7 +16,7 @@
 
 ## 👨‍💻 About Me
 
-Hi! I'm Cleonaia, a Data Engineering student with an unstoppable passion for innovation, continuous learning, and technological development. My goal is to deliver creative and efficient solutions that drive digital transformation, especially in Latin America—a region full of potential and opportunities to open new horizons of knowledge.
+Hi! I'm Leo, a Data Engineering student with an unstoppable passion for innovation, continuous learning, and technological development. My goal is to deliver creative and efficient solutions that drive digital transformation, especially in Latin America—a region full of potential and opportunities to open new horizons of knowledge.
 
 I believe technology is a catalyst for social and economic change. I'm driven to create tools and platforms that make life easier for people and businesses, using data, artificial intelligence, and automation to solve real-world challenges.
 
@@ -61,15 +61,6 @@ I believe technology is a catalyst for social and economic change. I'm driven to
 
 ---
 
-## 🏆 Achievements
-
-- 20+ digital projects launched
-- Young Innovator Award 2024
-- Tech education mentor
-- IA Hackathon Finalist 2025
-- Speaker at tech & entrepreneurship events
-
----
 
 ## 📈 GitHub Stats
 

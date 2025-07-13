@@ -8,12 +8,12 @@
 <p align="center">Innovator in automation, web & mobile development, and idea generation for the future.</p>
 
 <p align="center">
-  <i>"Technology is the engine that connects dreams to reality. My purpose: to inspire, transform, and lead digital change in Latin America and beyond."</i>
+  <i>Technology is the engine that connects dreams to reality. My purpose: to inspire, transform, and lead digital change in Latin America and beyond.</i>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
 Hi! I'm Leo, a Data Engineering student with an unstoppable passion for innovation, continuous learning, and technological development. My goal is to deliver creative and efficient solutions that drive digital transformation, especially in Latin America—a region full of potential and opportunities to open new horizons of knowledge.
 
@@ -63,7 +63,9 @@ I believe technology is a catalyst for social and economic change. I'm driven to
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cleonaia&show_icons=true&theme=radical"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=cleonaia&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleonaia&layout=compact&theme=radical"/>
 </p>
+
 
 ---
 

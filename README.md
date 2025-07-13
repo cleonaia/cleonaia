@@ -70,24 +70,44 @@ I believe technology is a catalyst for social and economic change. Through EchoD
 
 ---
 
+## 💭 Philosophy
+
 <div align="center">
+  <blockquote>
+    <p><em>"If you do something and it turns out pretty good, then you should go do something else wonderful, not dwell on it for too long. Just figure out what's next."</em></p>
+    <footer>— Steve Jobs</footer>
+  </blockquote>
+</div>
 
-### 💭 Philosophy
+<br>
 
-> *"If you do something and it turns out pretty good, then you should go do something else wonderful, not dwell on it for too long. Just figure out what's next."*  
-> **— Steve Jobs**
-
-### 🚀 Ready to innovate and transform?
-
-**Let's build the future together!**
-
-[![Get in Touch](https://img.shields.io/badge/💌_Get_in_Touch-echodaycoorp@gmail.com-23FFE3?style=for-the-badge&logoColor=white)](mailto:echodaycoorp@gmail.com)
+<div align="center">
+  <h3>🚀 Ready to innovate and transform?</h3>
+  <p><strong>Let's build the future together!</strong></p>
+  
+  <br>
+  
+  <p>
+    <a href="mailto:echodaycoorp@gmail.com">
+      <img src="https://img.shields.io/badge/GET%20IN%20TOUCH-646464?style=for-the-badge&logo=mail&logoColor=white" alt="Get in Touch"/>
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://www.echoday.tech">
+      <img src="https://img.shields.io/badge/VISIT%20ECHODAY-00D4FF?style=for-the-badge&logo=web&logoColor=white" alt="Visit EchoDay"/>
+    </a>
+  </p>
+</div>
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=cleonaia&label=Profile%20Views&color=23ffe3&style=for-the-badge" alt="Profile Views"/>
-
-**⭐ Star this repo if you like my work!**
-
+<div align="center">
+  <p>
+    <img src="https://img.shields.io/badge/PROFILE%20VIEWS-000000?style=for-the-badge&logo=github&logoColor=white" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=cleonaia&color=00D4FF&style=for-the-badge" alt="Profile Views Counter"/>
+  </p>
+  
+  <p>⭐ <strong>Star this repository if you like my work!</strong></p>
 </div>
+
+---
 

@@ -68,5 +68,26 @@ I believe technology is a catalyst for social and economic change. Through EchoD
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleonaia&layout=compact&theme=radical"/>
 </p>
 
+---
+
+<div align="center">
+
+### 💭 Philosophy
+
+> *"If you do something and it turns out pretty good, then you should go do something else wonderful, not dwell on it for too long. Just figure out what's next."*  
+> **— Steve Jobs**
+
+### 🚀 Ready to innovate and transform?
+
+**Let's build the future together!**
+
+[![Get in Touch](https://img.shields.io/badge/💌_Get_in_Touch-echodaycoorp@gmail.com-23FFE3?style=for-the-badge&logoColor=white)](mailto:echodaycoorp@gmail.com)
 
 ---
+
+<img src="https://komarev.com/ghpvc/?username=cleonaia&label=Profile%20Views&color=23ffe3&style=for-the-badge" alt="Profile Views"/>
+
+**⭐ Star this repo if you like my work!**
+
+</div>
+

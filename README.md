@@ -13,9 +13,9 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
-Hi! I'm Leo, a Data Engineering student with an unstoppable passion for innovation, continuous learning, and technological development. As the **Founder & CEO of [EchoDay](https://www.echoday.tech)**, I lead technological innovation and digital transformation initiatives. My goal is to deliver creative and efficient solutions that drive digital transformation, especially in Latin America—a region full of potential and opportunities to open new horizons of knowledge.
+Hi! I'm Leo, a Data Engineering student with an unstoppable passion for innovation, continuous learning, and technological development. As the **Founder of [EchoDay](https://www.echoday.tech)**, I lead technological innovation and digital transformation initiatives. My goal is to deliver creative and efficient solutions that drive digital transformation, especially in Latin America—a region full of potential and opportunities to open new horizons of knowledge.
 
 I believe technology is a catalyst for social and economic change. Through EchoDay, I'm driven to create tools and platforms that make life easier for people and businesses, using data, artificial intelligence, and automation to solve real-world challenges.
 

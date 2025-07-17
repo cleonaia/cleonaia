@@ -38,7 +38,6 @@ I believe technology is a catalyst for social and economic change. Through EchoD
 
   [![Website](https://img.shields.io/badge/Website-EchoDay.tech-%2300D4FF?style=for-the-badge&logo=web&logoColor=white)](https://www.echoday.tech)
   [![Instagram](https://img.shields.io/badge/Instagram-rohayhu__leo-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rohayhu_leo)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Leonardo%20Aguayo%20Barreto-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-aguayo-barreto-775b1a374/)
   [![WhatsApp](https://img.shields.io/badge/WhatsApp-643032807-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/34643032807)
   [![Gmail](https://img.shields.io/badge/Gmail-echodaycoorp-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:echodaycoorp@gmail.com)
 

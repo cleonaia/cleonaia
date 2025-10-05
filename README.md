@@ -88,7 +88,7 @@ I believe technology is a catalyst for social and economic change. Through EchoD
   <br>
   
   <p>
-    <a href="mailto:contact@echoday.tech">
+    <a href="mailto:contacto@echoday.tech">
       <img src="https://img.shields.io/badge/GET%20IN%20TOUCH-646464?style=for-the-badge&logo=mail&logoColor=white" alt="Get in Touch"/>
     </a>
     &nbsp;&nbsp;

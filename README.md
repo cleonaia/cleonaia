@@ -15,9 +15,9 @@
 
 ## About Me
 
-Hi!! I'm Leo a Data Engineering student with an unstoppable passion for innovation, continuous learning, and technological development. As the **Founder of [EchoDay](https://www.echoday.tech)**, I lead technological innovation and digital transformation initiatives. My goal is to deliver creative and efficient solutions that drive digital transformation, especially in Latin America a region full of potential and opportunities to open new horizons of knowledge.
+Hi!! I'm Leo a Computer Engineering student with an unstoppable passion for innovation, continuous learning, and technological development. As the **Founder of [EchoDay](https://www.echoday.tech)**, I lead technological innovation and digital transformation initiatives. My goal is to deliver creative and efficient solutions that drive digital transformation, especially in Latin America a region full of potential and opportunities to open new horizons of knowledge.
 
-I believe technology is a catalyst for social and economic change. Through EchoDay, I'm driven to create tools and platforms that make life easier for people and businesses, using data, artificial intelligence, and automation to solve real-world challenges.
+I believe technology is a catalyst for social and economic change. Through EchoDay, I'm driven to create tools and platforms that make life easier for people and businesses, using data, artificial intelligence, and automation to solve real world challenges.
 
 **Purpose & Vision:**
 - Democratize access to technology
@@ -26,7 +26,7 @@ I believe technology is a catalyst for social and economic change. Through EchoD
 - Collaborate with multidisciplinary teams and share knowledge to create a more competitive and sustainable region
 
 **Supercharged Skills:**
-- 🔥 Data Engineering, Machine Learning, Deep Learning, Applied AI, Advanced Automation
+- 🔥 Computer Engineering, Machine Learning, Deep Learning, Applied AI, Advanced Automation, Data Student
 - 🚀 Full Stack Web Development, Mobile Apps, Interactive Dashboards
 - 🧠 Data Analysis, Big Data, Cloud Computing, DevOps
 - 💡 Creativity, leadership, mentoring, and strategic vision
@@ -39,7 +39,7 @@ I believe technology is a catalyst for social and economic change. Through EchoD
   [![Website](https://img.shields.io/badge/Website-EchoDay.tech-%2300D4FF?style=for-the-badge&logo=web&logoColor=white)](https://www.echoday.tech)
   [![Instagram](https://img.shields.io/badge/Instagram-rohayhu__leo-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rohayhu_leo)
   [![WhatsApp](https://img.shields.io/badge/WhatsApp-643032807-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/34643032807)
-  [![Email](https://img.shields.io/badge/Email-contacto%40echoday.tech-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contacto@echoday.tech)
+  [![Email](https://img.shields.io/badge/Email-contacto%40echoday.tech-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:echodaytech@gmail.com)
 
 
 ---

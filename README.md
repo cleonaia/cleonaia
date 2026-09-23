@@ -82,7 +82,7 @@ I believe technology is a catalyst for social and economic change. Through EchoD
 <br>
 
 <div align="center">
-  <h3>🚀 Ready to innovate and transform?</h3>
+  <h3> Ready to innovate and transform?</h3>
   <p><strong>Let's build the future together!</strong></p>
   
   <br>

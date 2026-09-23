@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Cleonaia</h1>
-<p align="center"><b>Engineer Software Student | AI, App Development, Creative Coding & Digital Transformation</b></p>
+<p align="center"><b>Engineer Computer Student | AI, App Development, Creative Coding & Digital Transformation</b></p>
 <p align="center">Innovator in automation, web & mobile development, and idea generation for the future.</p>
 
 <p align="center">

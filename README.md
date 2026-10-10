@@ -15,22 +15,9 @@
 
 ## About Me
 
-Hi!! I'm Leo a Computer Engineering student with an unstoppable passion for innovation, continuous learning and technological development. As the **Founder of [EchoDay](https://www.echoday.tech)**, I lead technological innovation and digital transformation initiatives. My goal is to deliver creative and efficient solutions that drive digital transformation, especially in Latin America a region full of potential and opportunities to open new horizons of knowledge.
+Hi!! I'm Leo a Computer Engineering student with an unstoppable passion for innovation, continuous learning and technological development. I enjoy working across the full development process: understanding a problem, designing a solution, building it, testing it and improving it over time. My main focus is on creating clean, practical and scalable technology that can help people and small businesses work better.  
 
-I believe technology is a catalyst for social and economic change. Through EchoDay, I'm driven to create tools and platforms that make life easier for people and businesses, using data, artificial intelligence, and automation to solve real world challenges.
-
-**Purpose & Vision:**
-- Democratize access to technology
-- Promote digital education
-- Build a more connected, inclusive, and future-ready society
-- Collaborate with multidisciplinary teams and share knowledge to create a more competitive and sustainable region
-
-**Supercharged Skills:**
-- 🔥 Computer Engineering, Machine Learning, Deep Learning, Applied AI, Advanced Automation, Data Student
-- 🚀 Full Stack Web Development, Mobile Apps, Interactive Dashboards
-- 🧠 Data Analysis, Big Data, Cloud Computing, DevOps
-- 💡 Creativity, leadership, mentoring, and strategic vision
-- 🌎 Multicultural communication and global teamwork
+**Current interests:** - Applied AI and automation - Full-stack web development - Data engineering and analytics - Cloud deployment and DevOps - Networking, cybersecurity and secure software practices
 
 ---
 

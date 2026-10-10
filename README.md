@@ -17,8 +17,6 @@
 
 Hi!! I'm Leo a Computer Engineering student with an unstoppable passion for innovation, continuous learning and technological development. I enjoy working across the full development process: understanding a problem, designing a solution, building it, testing it and improving it over time. My main focus is on creating clean, practical and scalable technology that can help people and small businesses work better.  
 
-**Current interests:** - Applied AI and automation - Full-stack web development - Data engineering and analytics - Cloud deployment and DevOps - Networking, cybersecurity and secure software practices
-
 ---
 
 ## 🌐 Socials

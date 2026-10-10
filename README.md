@@ -15,7 +15,7 @@
 
 ## About Me
 
-Hi!! I'm Leo a Computer Engineering student with an unstoppable passion for innovation, continuous learning and technological development. I enjoy working across the full development process: understanding a problem, designing a solution, building it, testing it and improving it over time. My main focus is on creating clean, practical and scalable technology that can help people and small businesses work better.  
+Hi, I’m Leo, a Computer Engineering student driven by a deep passion for innovation, continuous learning and technological progress. I enjoy taking ideas from concept to reality: analysing the problem, designing a thoughtful solution, building it, testing it rigorously and refining it over time. My focus is on crafting clean, practical and scalable technology that empowers individuals and small businesses to work more efficiently. Beyond development, I'm passionate about ethical hacking and cybersecurity, with a growing focus on building secure by design solutions and exploring offensive security in my future projects.
 
 ---
 
